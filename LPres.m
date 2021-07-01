@@ -55,7 +55,6 @@ function [res,LPCs,RSE] = LPres(speech,fs,framesize,frameshift,lporder,preemp)
 % DATE   		: 22/11/2004
 % LAST MODIFIED 	: -
 % OTHER FUNCTIONS USED	: ResFilter_v2
-%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 	funcname	= 'LPres()';
